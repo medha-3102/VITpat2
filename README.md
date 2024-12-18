@@ -15,7 +15,4 @@ DSA Store and Revamp is a web application that allows you to store links to Data
 - **Authentication:** Firebase Authentication
 - **Hosting:** Firebase Hosting
 
-## Project URL
-
-[Visit DSA Store Revamp](https://dsahub-8012c.web.app/)
 
